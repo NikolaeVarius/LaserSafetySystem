@@ -1,0 +1,8 @@
+title: Laser Safety System
+description: Laser cutter/engraver safety monitoring system
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
